@@ -1,4 +1,4 @@
-# 💧 Projeto ODS 6 - Água Potável e Saneamento
+#  Projeto ODS 6 - Água Potável e Saneamento
 
 Este projeto foi desenvolvido como parte de uma atividade de extensão universitária do curso de Análise e Desenvolvimento de Sistemas.
 
@@ -6,13 +6,13 @@ A proposta é informar e conscientizar a comunidade sobre os principais desafios
 
 ---
 
-## 🌐 Acesse a página online:
+##  Acesse a página online:
 
-👉 [Clique aqui para acessar a landing page](https://jonathantallis.github.io/ods6-landing-page/)
+[Clique aqui para acessar a landing page](https://jonathantallis.github.io/ods6-landing-page/)
 
 ---
 
-## 🧩 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -21,7 +21,7 @@ A proposta é informar e conscientizar a comunidade sobre os principais desafios
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Apresentação dinâmica dos desafios atuais sobre água e saneamento no Brasil
 - Dicas práticas para economia e preservação da água
@@ -30,7 +30,7 @@ A proposta é informar e conscientizar a comunidade sobre os principais desafios
 
 ---
 
-## 🙋‍♂️ Desenvolvido por
+##  Desenvolvido por
 
 **Jonathan Tallis**  
 Extensão Universitária – Análise e Desenvolvimento de Sistemas  
